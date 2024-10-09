@@ -28,6 +28,16 @@ O sistema também terá:
 
 O desafio é configurar o banco de dados onde serão armazenadas as informações, desenvolver a estrutura backend integrada ao banco de dados que será responsável em receber as requisições solicitadas pela interface de usuário e retornar os recursos desejados. Por fim, desenvolver uma interface de usuário web que fará as iterações com os Garçons ou as Mesas.
 
+
+## 👥 Alguns usuários já cadastrados para se logar
+
+* garcom1@bvlabs.lol / 1234
+* garcom3@bvlabs.lol / 1234
+* mesa1@bvlabs.lol / 1234
+* mesa5@bvlabs.lol / 1234
+* mesa9@bvlabs.lol / 1234
+
+
 ## ✔️ Tecnologias utilizadas
 
 Lista de tudo que foi usado nesse desenvolvimento:
