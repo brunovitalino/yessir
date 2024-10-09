@@ -24,7 +24,7 @@ Já para os Garçons, poderão:
 
 O sistema também terá:
 1. Autenticação;
-2. Controle de acesso às telas por perfis de usuário. Garçons não conseguem nem as telas das Mesas, e vice-versa;
+2. Controle de acesso às telas por perfis de usuário. Garçons não conseguem ver as telas das Mesas, e vice-versa;
 
 O desafio é configurar o banco de dados onde serão armazenadas as informações, desenvolver a estrutura backend integrada ao banco de dados que será responsável em receber as requisições solicitadas pela interface de usuário e retornar os recursos desejados. Por fim, desenvolver uma interface de usuário web que fará as iterações com os Garçons ou as Mesas.
 
