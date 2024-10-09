@@ -28,7 +28,7 @@ O sistema também terá:
 
 O desafio é configurar o banco de dados onde serão armazenadas as informações, desenvolver a estrutura backend integrada ao banco de dados que será responsável em receber as requisições solicitadas pela interface de usuário e retornar os recursos desejados. Por fim, desenvolver uma interface de usuário web que fará as iterações com os Garçons ou as Mesas.
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Tecnologias utilizadas
 
 Lista de tudo que foi usado nesse desenvolvimento:
 
@@ -52,8 +52,6 @@ Lista de tudo que foi usado nesse desenvolvimento:
 - `Docker`
 - `AWS ECS`
 - `AWS ECR`
-
-E muito mais!
 
 ## 🛠️ Abrir e rodar o projeto
 
