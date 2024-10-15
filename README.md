@@ -11,6 +11,15 @@ YesSir é um sistema de atendimento ao cliente em restaurantes. No momento é um
 [http://www.bvlabs.lol](http://www.bvlabs.lol)
 
 
+## 👥 Alguns usuários já cadastrados para se logar
+
+* garcom1@bvlabs.lol / 1234
+* garcom3@bvlabs.lol / 1234
+* mesa1@bvlabs.lol / 1234
+* mesa5@bvlabs.lol / 1234
+* mesa9@bvlabs.lol / 1234
+
+
 ## 🔨 Funcionalidades do projeto
 
 Nesse primeiro momento, nós temos as jornadas iniciais para os Garçons e para as Mesas onde os clientes se encontram.
@@ -32,15 +41,6 @@ O sistema também terá:
 2. Controle de acesso às telas por perfis de usuário. Garçons não conseguem ver as telas das Mesas, e vice-versa;
 
 O desafio é configurar o banco de dados onde serão armazenadas as informações, desenvolver a estrutura backend integrada ao banco de dados que será responsável em receber as requisições solicitadas pela interface de usuário e retornar os recursos desejados. Por fim, desenvolver uma interface de usuário web que fará as iterações com os Garçons ou as Mesas.
-
-
-## 👥 Alguns usuários já cadastrados para se logar
-
-* garcom1@bvlabs.lol / 1234
-* garcom3@bvlabs.lol / 1234
-* mesa1@bvlabs.lol / 1234
-* mesa5@bvlabs.lol / 1234
-* mesa9@bvlabs.lol / 1234
 
 
 ## ✔️ Tecnologias utilizadas
