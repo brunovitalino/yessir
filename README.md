@@ -1,9 +1,14 @@
-# Yes Sir ([site](http://www.bvlabs.lol))
+# Yes Sir
 
 YesSir é um sistema de atendimento ao cliente em restaurantes. No momento é um MVP que está em seu início, mas que promete muitas funcionalidades novas interessantes para serem desenvolvidas.
 
 <img src="printscreen1.png" alt="Imagem do cardapio YesSir" width="50%">
 <img src="printscreen2.png" alt="Imagem do atendimento YesSir" width="50%">
+
+
+## 🛠️ Site
+
+[http://www.bvlabs.lol](http://www.bvlabs.lol)
 
 
 ## 🔨 Funcionalidades do projeto
