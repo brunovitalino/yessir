@@ -48,6 +48,8 @@ services:
   yessir-interface:
     container_name: yessir-interface
     image: docker.io/brunovitalino/yessir-interface-image:latest
+    environment:
+      API_URL: 'http://localhost:8080'
     ports:
       - 4200:80
     networks:
